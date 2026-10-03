@@ -131,3 +131,54 @@ revisión legal/editorial:
 Revisar copy, marca, accesibilidad, derechos de uso, disclosure comercial y coherencia con el informe.
 
 Para grupos, comprobar además: normas leídas, identidad declarada, autorización de la acción externa, ausencia de automatización masiva, utilidad contextual del contenido, enlace con UTM y registro de la evidencia.
+
+
+## Planificación mensual reutilizable
+
+Cuando se solicite un plan de redes para un mes, preparar un calendario reutilizable y accionable para el periodo y fecha de inicio indicados por el usuario. Estas instrucciones no fijan un mes concreto. Antes de proponer piezas, consultar los buyer persona, dolores, etapa de decisión, posicionamiento, capacidades reales del producto, tono y límites editoriales vigentes en el repositorio.
+
+### Enfoque estratégico
+
+1. Definir el objetivo del mes, el perfil prioritario y la etapa de decisión. No intentar hablar a todos los perfiles en cada pieza.
+2. Recomendar uno o dos canales prioritarios según audiencia, objetivo y capacidad de producción disponible. Adaptar hook, ritmo, longitud, copy y CTA a cada canal; no asumir que el mismo contenido funciona igual en todos.
+3. Organizar las publicaciones en pilares coherentes con necesidades reales: presupuesto y coste total, elección según uso, revisión y documentación, financiación, cambio de coche, necesidades familiares, movilidad urbana y uso profesional. Ajustar los pilares a la oferta y roadmap vigentes.
+4. Equilibrar contenido de utilidad inmediata, identificación, conversación y demostración de producto. Cada pieza entrega valor antes de solicitar guardados, compartidos o comentarios.
+5. Buscar compartibilidad por utilidad o identificación. No prometer viralidad, recurrir a engagement bait, alarmismo, vergüenza, etiquetado masivo ni afirmaciones engañosas.
+6. Usar lenguaje claro y concreto. Priorizar la voz real del comprador cuando haya evidencia autorizada; no inventar citas, testimonios ni feedback.
+7. Evitar repetir ideas. Reutilizar un tema solo si cambia de manera sustantiva el perfil, la etapa, el formato, el canal o la hipótesis.
+
+### Estructura de cada plan
+
+Incluir al comienzo: periodo, objetivo, perfil prioritario, canales recomendados con motivo, supuestos y pilares editoriales. Marcar como hipótesis los elementos no confirmados y como pendientes los datos que no estén disponibles. Si faltan recursos o datos, avanzar con supuestos razonables y señalar cómo sustituirlos; preguntar solo si la respuesta cambia materialmente el plan.
+
+Entregar el calendario fechado en una tabla. Para cada pieza incluir:
+
+- Fecha y canal.
+- Perfil y etapa de decisión.
+- Dolor o pregunta que aborda.
+- Hipótesis de contenido y objetivo (alcance, educación, confianza o acción).
+- Formato y duración aproximada.
+- Hook, especialmente los primeros segundos de vídeo.
+- Estructura del guion o carrusel y acción útil que resuelve el dolor.
+- CTA posterior a la entrega de valor.
+- Métrica primaria y criterio para repetir, iterar o retirar la idea.
+- Recursos de producción y fuentes/comprobaciones necesarias.
+
+Completar con variantes de hook para las piezas prioritarias, ideas de Stories o respuestas a comentarios cuando aporten valor, una propuesta realista de producción por lotes y una lista de claims que deben verificarse antes de publicar. Ofrecer una cadencia mínima y otra ampliada si la capacidad de producción no está clara; no llenar el calendario por cumplir una cuota.
+
+### Medición y ciclo mensual
+
+Separar atención, interés y acción. Cuando existan datos, medir con denominador y periodo: retención, porcentaje visto, guardados/alcance, compartidos/alcance, clics UTM, valoraciones iniciadas y completadas. No presentar reproducciones o clics como conversiones. Marcar métricas no disponibles como `pendiente de medir`.
+
+No declarar ganadora una pieza por una sola cifra o una única publicación. Comparar piezas con objetivos, canales y formatos semejantes; señalar límites de muestra y separar observaciones de inferencias. Al cerrar cada mes, entregar una plantilla breve de revisión (resultados, aprendizajes, dudas, piezas a repetir/iterar/retirar y decisiones para el mes siguiente). Usar ese aprendizaje en el siguiente plan sin modificar automáticamente el roadmap.
+
+### Veracidad editorial
+
+- No inventar tendencias, datos, testimonios, capacidades del producto ni frases atribuidas a clientes.
+- Verificar con fuentes fiables las afirmaciones cambiantes, normativas, técnicas o financieras; guardar enlace, título, fecha de consulta y qué afirmación respalda.
+- Si una afirmación es una inferencia, etiquetarla como tal. Si no puede verificarse, reformularla o dejarla fuera.
+- CocheCierto ofrece orientación: no presentar resultados como tasación, peritaje, inspección, garantía, aprobación financiera o confirmación del estado de un vehículo. Una checklist no garantiza una compra segura.
+- Respetar privacidad, consentimiento, derechos de imagen y licencias.
+- Preparar el contenido para revisión; no publicar ni programar, responder en nombre de CocheCierto o ejecutar acciones externas sin aprobación explícita.
+
+Escribir los planes en español de España, con fechas claras y formatos que el equipo pueda producir.
